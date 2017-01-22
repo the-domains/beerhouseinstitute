@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Craft Beer...because no great conversation started over a salad!
-dateModified: '2017-01-22T17:45:05.118Z'
-datePublished: '2017-01-22T17:45:05.579Z'
+dateModified: '2017-01-22T17:46:31.415Z'
+datePublished: '2017-01-22T17:46:31.725Z'
 title: ''
 author: []
 publisher: {}
