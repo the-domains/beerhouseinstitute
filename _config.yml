@@ -61,7 +61,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -72,7 +71,7 @@ content:
 title: A CAREER IN CRAFT BEER
 description: Empowering Craft Beer Enthusiasts With Self-Guided Courses
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd77b53d-fa5f-4776-92de-4e5b19119c9a.jpg
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d186e0-78c9-4220-93e8-958b819c34a4.jpg
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/db439641-7cb4-4af1-a956-a7b9dc27902a.jpg
