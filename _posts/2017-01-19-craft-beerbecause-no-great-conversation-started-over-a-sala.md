@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: The United Colors of Craft Beer Craft Beer.
-dateModified: '2017-01-22T17:50:37.379Z'
-datePublished: '2017-01-22T17:50:37.981Z'
-title: ''
+description: ''
+dateModified: '2017-01-22T19:16:48.255Z'
+datePublished: '2017-01-22T19:16:48.677Z'
+title: THE UNITED COLORS OF CRAFT BEER.
 author: []
 publisher: {}
 via: {}
@@ -16,8 +16,7 @@ url: the-united-colors-of-craft-beer-craft-beer/index.html
 _type: Article
 
 ---
-> The United Colors of Craft Beer Craft Beer.
-
+# THE UNITED COLORS OF CRAFT BEER.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/89ba37e1-35dd-49a2-8c95-1deac2aa8236.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26658230-4753-481e-8b93-7cdc30681c0a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/986ed965-8340-46bc-b4ce-a52f9d8cd48a.jpg)
