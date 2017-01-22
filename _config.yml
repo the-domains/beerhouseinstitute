@@ -19,7 +19,32 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ba7248-c5a2-4eef-b119-146a19db0dd5.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/44ba7248-c5a2-4eef-b119-146a19db0dd5.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: A CAREER IN CRAFT BEER
 description: Empowering Craft Beer Enthusiasts With Self-Guided Courses
 favicon: >-
