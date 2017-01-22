@@ -1,17 +1,17 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-22T17:30:06.368Z'
-datePublished: '2017-01-22T17:30:50.314Z'
+dateModified: '2017-01-22T17:40:37.107Z'
+datePublished: '2017-01-22T17:40:37.817Z'
 title: “Craft Beer…Because No Great Conversation Started With A Salad”
 author: []
 publisher: {}
 via: {}
 hasPage: true
-starred: false
-datePublishedOriginal: '2017-01-22T17:30:50.314Z'
 sourcePath: >-
   _posts/2017-01-22-craft-beerbecause-no-great-conversation-started-with-a-sal.md
+starred: false
+datePublishedOriginal: '2017-01-22T17:30:50.314Z'
 url: craft-beerbecause-no-great-conversation-started-with-a-sal/index.html
 _type: Article
 
