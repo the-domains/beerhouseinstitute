@@ -1,9 +1,9 @@
 ---
 inFeed: true
-description: Craft Beer...because no great conversation started over a salad!
-dateModified: '2017-01-22T17:50:37.379Z'
-datePublished: '2017-01-22T17:50:37.788Z'
-title: ''
+description: ''
+dateModified: '2017-01-22T19:16:48.255Z'
+datePublished: '2017-01-22T19:16:48.677Z'
+title: CRAFT BEER… BECAUSE NO GREAT CONVERSATION STARTED FROM A SALAD!
 author: []
 publisher: {}
 via: {}
@@ -16,8 +16,7 @@ url: craft-beerbecause-no-great-conversation-started-with-a-sal/index.html
 _type: Article
 
 ---
-> Craft Beer...because no great conversation started over a salad!
-
+# CRAFT BEER... BECAUSE NO GREAT CONVERSATION STARTED FROM A SALAD!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65448526-be03-427d-9624-a619cf5924b8.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d58ff8b-cd83-43eb-a7eb-b6a6271559fc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e7754e9-431c-4992-b236-8540b8e734db.jpg)
