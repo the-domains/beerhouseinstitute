@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: The United Colors of Craft Beer Craft Beer.
-dateModified: '2017-01-22T17:49:47.170Z'
-datePublished: '2017-01-22T17:50:08.118Z'
+dateModified: '2017-01-22T17:50:37.379Z'
+datePublished: '2017-01-22T17:50:37.981Z'
 title: ''
 author: []
 publisher: {}
