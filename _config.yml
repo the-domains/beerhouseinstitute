@@ -1,0 +1,29 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: beerhouseinstitute
+layout_spectrum: 0.6519770585000515
+typography_spectrum: 0.15049712406471372
+color:
+  brandStrength: 0.37303956924006343
+  lightness: 0.8014397365041077
+  saturation: 0.018549332162365317
+  rhythmicContrast: 0.48639180161990225
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+content: []
+title: A CAREER IN CRAFT BEER
+description: Empowering Craft Beer Enthusiasts With Self-Guided Courses
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd77b53d-fa5f-4776-92de-4e5b19119c9a.jpg
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/db439641-7cb4-4af1-a956-a7b9dc27902a.jpg
