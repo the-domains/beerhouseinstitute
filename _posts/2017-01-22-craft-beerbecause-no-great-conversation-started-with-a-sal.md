@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-24T23:15:25.785Z'
-datePublished: '2017-01-24T23:15:27.343Z'
-title: ''
+dateModified: '2017-01-24T23:16:40.933Z'
+datePublished: '2017-01-24T23:16:41.298Z'
+title: 99 Craft Beers on the Screen…99 Craft Beers on the screen…
 author: []
 publisher: {}
 via: {}
@@ -16,6 +16,7 @@ url: craft-beerbecause-no-great-conversation-started-with-a-sal/index.html
 _type: Article
 
 ---
+# 99 Craft Beers on the Screen...99 Craft Beers on the screen...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b487281f-9f45-4f9a-9fdd-d318b7f5d985.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71bc7c53-b971-4b3a-9d02-b45a9fab4567.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dacbdb99-09a1-4276-97a9-12024d15d558.jpg)
