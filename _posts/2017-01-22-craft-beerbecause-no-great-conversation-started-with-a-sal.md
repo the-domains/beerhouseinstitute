@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-24T23:54:59.065Z'
-datePublished: '2017-01-24T23:55:46.774Z'
-title: 99 Craft Beers on the Screen…99 Craft Beers on the screen…
+dateModified: '2017-01-25T23:44:38.121Z'
+datePublished: '2017-01-25T23:44:38.668Z'
+title: 99 craft beers on the screen…99 craft beers on the screen…
 author: []
 publisher: {}
 via: {}
@@ -16,7 +16,7 @@ url: 99-craft-beers-on-the-screen99-craft-beers-on-the-screen/index.html
 _type: Article
 
 ---
-# 99 Craft Beers on the Screen...99 Craft Beers on the screen...
+# 99 craft beers on the screen...99 craft beers on the screen...
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b487281f-9f45-4f9a-9fdd-d318b7f5d985.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71bc7c53-b971-4b3a-9d02-b45a9fab4567.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dacbdb99-09a1-4276-97a9-12024d15d558.jpg)
