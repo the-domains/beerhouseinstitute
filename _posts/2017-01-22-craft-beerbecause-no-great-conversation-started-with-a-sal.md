@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-25T23:44:38.121Z'
-datePublished: '2017-01-25T23:44:38.668Z'
+dateModified: '2017-01-25T23:49:34.730Z'
+datePublished: '2017-01-25T23:49:35.079Z'
 title: 99 craft beers on the screen…99 craft beers on the screen…
 author: []
 publisher: {}
