@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -52,3 +51,7 @@ favicon: >-
 github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/db439641-7cb4-4af1-a956-a7b9dc27902a.jpg
+purpose:
+  - type: contact
+    url: 'mailto:djanes10@gmail.com'
+    label: Contact me
