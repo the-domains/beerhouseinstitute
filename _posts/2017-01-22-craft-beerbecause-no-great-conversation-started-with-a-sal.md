@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-27T23:28:29.919Z'
-datePublished: '2017-01-27T23:36:12.740Z'
+dateModified: '2017-01-27T23:47:24.307Z'
+datePublished: '2017-01-27T23:47:26.002Z'
 title: 99 Bottles of Beer on the screen…99 Bottles of Beer…
 author: []
 publisher: {}
@@ -46,9 +46,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6487d50-4644-444f-a23b-86682e3c7cc7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/91666244-9ddb-4580-b444-224f3579612e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/099d6f29-285b-441c-8d6a-805e7e8ba32e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7fcc162-2067-4b5c-b505-c96e4a38bf89.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6db7200c-62e0-45e7-a73e-ce9c6100b5ed.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a501d66-439c-4aaa-bc66-e48ba816d908.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00a711eb-4bac-4d2a-b2a3-8d90454defb7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d687e6a2-6542-4044-844b-27efb506e0d2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60b166fc-4f86-42c4-ae6b-7166e525e980.jpg)
