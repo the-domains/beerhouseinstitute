@@ -19,7 +19,56 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: article
+    html: >-
+      <article><h1>Clever bird! Parrot uses BEAK to open bottle of beer | Daily
+      Mail Online</h1><p>Clever bird! Parrot uses BEAK to open bottle of beer
+      for his owner in a cute video clip uploaded to Vine.</p><img
+      src="http://i.dailymail.co.uk/i/pix/2015/11/18/12/2E8F97D600000578-0-image-a-21_1447849759232.jpg"></article>
+    src: >-
+      http://i.dailymail.co.uk/i/pix/2015/11/18/12/2E8F97D600000578-0-image-a-21_1447849759232.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'http://www.dailymail.co.uk'
+        name: Mail Online
+        favicon: 'http://www.dailymail.co.uk/favicon.ico'
+        domain: www.dailymail.co.uk
+      keywords:
+        - mail
+        - metro
+        - archive
+        - text-based
+        - zoopla
+        - screensaver
+        - sitemap
+        - jobsite
+        - parrot
+        - daily
+      description: >-
+        Clever bird! Parrot uses BEAK to open bottle of beer for his owner in a
+        cute video clip uploaded to Vine.
+      inLanguage: en
+      app_links:
+        - url: 'dailymail-fb://channel/video/'
+          type: ios
+          namespace: ai
+          app_store_id: '384101264'
+          app_name: MailOnline
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      isBasedOnUrl: >-
+        http://www.dailymail.co.uk/video/news/video-1229981/Clever-bird-Parrot-uses-BEAK-open-bottle-beer.html
+      title: Clever bird! Parrot uses BEAK to open bottle of beer | Daily Mail Online
+      datePublished: null
+    title: Clever bird! Parrot uses BEAK to open bottle of beer | Daily Mail Online
+    caption: >-
+      Clever bird! Parrot uses BEAK to open bottle of beer for his owner in a
+      cute video clip uploaded to Vine.
+    text: !<tag:yaml.org,2002:js/undefined> ''
 title: The Beer House Photo Gallery
 description: A Photo Expose of the World's Most Popular Beverage
 favicon: >-
