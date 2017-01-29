@@ -44,7 +44,7 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-title: The Beer House Photo Gallery
+title: ' Beer House Photo Gallery'
 description: A Photo Expose in Craft Beer
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50d186e0-78c9-4220-93e8-958b819c34a4.jpg
