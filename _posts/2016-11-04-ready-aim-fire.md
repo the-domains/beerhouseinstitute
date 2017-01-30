@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-30T23:45:55.409Z'
+datePublished: '2017-01-30T23:56:24.906Z'
 sourcePath: _posts/2016-11-04-ready-aim-fire.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-30T23:31:50.137Z'
+dateModified: '2017-01-30T23:56:18.994Z'
 title: “ Friends bring happiness into your life…best friends bring beer”.
 publisher: {}
 description: ''
