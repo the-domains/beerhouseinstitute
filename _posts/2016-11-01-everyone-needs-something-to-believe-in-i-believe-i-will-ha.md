@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-30T23:45:57.984Z'
+datePublished: '2017-01-30T23:56:27.533Z'
 sourcePath: >-
   _posts/2016-11-01-everyone-needs-something-to-believe-in-i-believe-i-will-ha.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-30T23:34:56.795Z'
+dateModified: '2017-01-30T23:56:18.994Z'
 title: “Beer makes everything better”.
 publisher: {}
 description: ''
