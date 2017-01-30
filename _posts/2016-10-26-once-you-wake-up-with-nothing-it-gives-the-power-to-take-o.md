@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-01-30T23:46:00.434Z'
+datePublished: '2017-01-30T23:56:28.915Z'
 sourcePath: >-
   _posts/2016-10-26-once-you-wake-up-with-nothing-it-gives-the-power-to-take-o.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-30T23:38:22.244Z'
+dateModified: '2017-01-30T23:56:18.994Z'
 title: '“Beer, it’s the best damn drink in the world”. '
 publisher: {}
 description: ''
