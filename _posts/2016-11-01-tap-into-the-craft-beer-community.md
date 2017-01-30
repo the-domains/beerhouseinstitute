@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-30T15:42:55.500Z'
+datePublished: '2017-01-30T23:56:27.307Z'
 sourcePath: _posts/2016-11-01-tap-into-the-craft-beer-community.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-30T15:42:50.184Z'
+dateModified: '2017-01-30T23:56:18.994Z'
 title: “The complete beer course”
 publisher: {}
 description: ''
