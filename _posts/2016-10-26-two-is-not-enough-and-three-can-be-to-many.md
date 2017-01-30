@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-30T23:50:12.112Z'
+datePublished: '2017-01-30T23:56:28.055Z'
 sourcePath: _posts/2016-10-26-two-is-not-enough-and-three-can-be-to-many.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-30T23:50:02.260Z'
+dateModified: '2017-01-30T23:56:18.994Z'
 title: >-
   “Nothing ever tasted better than a cold beer on a beautiful afternoon with
   nothing to look forward to than more of the same”. 
