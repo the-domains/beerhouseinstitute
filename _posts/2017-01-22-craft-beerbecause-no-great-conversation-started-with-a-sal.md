@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-30T00:02:22.705Z'
-datePublished: '2017-01-30T00:02:23.826Z'
+dateModified: '2017-01-30T00:31:56.838Z'
+datePublished: '2017-01-30T00:31:58.146Z'
 title: 99 Bottles of Beer on the screen…99 Bottles of Beer…
 author: []
 publisher: {}
@@ -57,7 +57,6 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfe4b564-2f61-4212-994c-9a3eb1179cdc.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f98dc583-5be9-42a6-b074-fa4ce22ccc77.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f80d258-a482-45b2-b64d-9bea311bcaa6.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00b106cd-e1de-46ea-be2b-99897f4b6b18.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8961f51b-bf0b-4b45-a0e4-6c9dc3bcba96.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b6d2081-1b47-4624-b1cf-1fef44b2e2ba.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f65ce520-f449-492f-aba6-b35e9d6f1dda.jpg)
@@ -110,9 +109,13 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a44cf18-d402-4710-a403-5b79176dbbe7.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99a958ca-fd60-49d3-8e36-cf3cd70c81a2.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1625f827-5ff6-4905-a16d-99770b2c789c.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb6bc186-8f57-422b-93f2-19166cdea71b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a8709af-a452-462b-bca6-0ee050b18ea5.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/453e0335-91ea-4608-ac31-5f47c5949b3b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7272f818-9b71-4ac1-a2ae-83f823d8f299.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/032b5fcb-e0a8-4934-9697-7981ea8e856f.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf28aa58-6bdc-4aa6-97d2-db8282538e5d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/98b2c0fd-cd72-4ade-a3e4-c907a4512a8d.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d786400-81f2-484f-a49e-99bfa76f612c.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7671618c-9289-4764-89f4-76688a82e0c1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a37c1b1d-3513-48e0-bfb2-bc33a1eee1e0.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65129067-c853-4773-a148-325ede98539a.jpg)
