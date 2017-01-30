@@ -1,10 +1,10 @@
 ---
-datePublished: '2017-01-30T15:42:52.223Z'
+datePublished: '2017-01-30T23:56:27.213Z'
 sourcePath: _posts/2016-11-04-i-cant-change-the-worldbut-i-can-change-the-world-within.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2017-01-30T15:42:50.184Z'
+dateModified: '2017-01-30T23:56:18.994Z'
 title: '“Craft beer, because no great conversation started over a salad". Anonymous'
 publisher: {}
 description: ''
