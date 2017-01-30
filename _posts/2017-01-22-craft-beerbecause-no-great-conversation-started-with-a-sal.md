@@ -1,9 +1,11 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-01-30T15:22:00.460Z'
-datePublished: '2017-01-30T15:22:03.647Z'
-title: 99 Bottles of Beer on the screen…99 Bottles of Beer…
+dateModified: '2017-01-30T15:42:43.413Z'
+datePublished: '2017-01-30T15:42:45.198Z'
+title: >-
+  99 bottles of beer on the screen…99 bottles of beer…if 37 of the bottles don’t
+  load on the screen…62 bottles of beer on the screen….
 author: []
 publisher: {}
 via: {}
@@ -16,7 +18,7 @@ url: 99-bottles-of-beer-on-the-screen99-bottles-of-beer/index.html
 _type: Article
 
 ---
-# 99 Bottles of Beer on the screen...99 Bottles of Beer...
+# 99 bottles of beer on the screen...99 bottles of beer...if 37 of the bottles don't load on the screen...62 bottles of beer on the screen....
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/71bc7c53-b971-4b3a-9d02-b45a9fab4567.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/519aaa40-f531-4541-b1d2-285f4e665215.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d8f0c95-464f-430d-89e1-ff99ab533ea8.jpg)
