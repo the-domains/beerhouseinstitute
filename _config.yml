@@ -1,3 +1,16 @@
+layout_spectrum: 0.07459214034351973
+typography_spectrum: 0.40946413241280705
+color:
+  brandStrength: 0.37440917093085474
+  lightness: 0.6104821308003278
+  saturation: 0.6095416417179426
+  rhythmicContrast: 0.4861677730951163
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -6,19 +19,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 name: beerhouseinstitute
-layout_spectrum: 0.6519770585000515
-typography_spectrum: 0.15049712406471372
-color:
-  brandStrength: 0.37303956924006343
-  lightness: 0.8014397365041077
-  saturation: 0.018549332162365317
-  rhythmicContrast: 0.48639180161990225
-  brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
